@@ -1,0 +1,30 @@
+.input{
+    color: blueviolet;
+}
+
+body{
+    color: blue;
+    padding: 0;
+    margin: 0;
+    border: 0px;
+    
+}
+h1{
+    color: blueviolet;
+    background-color: greenyellow;
+}
+h3{
+    color: red(52, 52, 255);
+    background-color: green;
+}
+
+form{
+    background-color: brown;
+    color: black;
+    font-size: 30px;
+}
+
+h4{
+    color: gold;
+    background-color: green;
+}
